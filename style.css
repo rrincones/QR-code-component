@@ -26,8 +26,8 @@ article {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 330px;
     width: 200px;
+    height: 330px;
     font-family: 'Outfit', sans-serif;
     border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
