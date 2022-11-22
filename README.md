@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/solution-using-css-flexbox-BJ1DVGKa45)
-- Live Site URL: (https://rrincones.github.io/qr-code-component/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/solution-using-css-flexbox-BJ1DVGKa45)
+- Live Site URL: [GitHub Pages Live Site](https://rrincones.github.io/qr-code-component/)
 
 ### Built with
 
@@ -33,11 +33,11 @@ The main thing I learned was how to center elements both horizontally and vertic
 
 ### Continued development
 
-Because this is my first project, I realize I still have so much to learn that it's hard to pick just a few things to focus on. However, a few things that stand out are CSS Flexbox and Grid and getting better at using the correct semantic HTML elements. I want to nail down the fundamentals and just establish good habits as I continue to learn. 
+Because this is my first project, I realize I still have so much to learn that it's hard to pick just a few things to focus on. For example, I had to spend a few hours just learning about how to use GitHub for this project. There are other things that have popped up on my radar that I want to learn about such as Markdown and UNICODE. Whenever something comes up that I don't know much about, it goes on my list of things to learn, even if it could be deemed nonessential to my current undertakings. So, while I can't pick just a few things, I can say that I really want to make sure I nail down the fundamentals and build good habits as I progress. 
 
 ### Useful resources
 
-- (https://www.freecodecamp.org/news/how-to-center-an-image-in-css/) - This article helped to explain how to vertically center an element using Flexbox. 
+- [How to Center an Image Vertically and Horizontally with CSS](https://www.freecodecamp.org/news/how-to-center-an-image-in-css/) - This article helped to explain how to vertically center an element using Flexbox. 
 
 ## Author
 
