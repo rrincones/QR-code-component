@@ -42,7 +42,7 @@ h1 {
 }
 
 p {
-    hsl(220, 15%, 55%);
+    color: hsl(220, 15%, 55%);
     max-width: 22ch;
     margin: 1rem auto;
 }
