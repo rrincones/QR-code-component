@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/solution-using-css-flexbox-BJ1DVGKa45)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/solution-using-css-flexbox-BJ1DVGKa45)
 - Live Site URL: [GitHub Pages Live Site](https://rrincones.github.io/qr-code-component/)
 
 ### Built with
